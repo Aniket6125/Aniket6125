@@ -11,7 +11,7 @@ Sharpening my knowledge in **Web Development**, with a focus on **JavaScript**, 
 - Solving coding challenges  
 - Understanding how technology shapes the world.
  ### 🎬 Production House  
-**Alpha Production** by *Aniket Dhumal* – A creative space for building digital projects, visuals, and tech-driven content.
+**AQB Production** by *Aniket Dhumal* – A creative space for building digital projects, visuals, and tech-driven content.
  
 ### 🎯 **Goals**  
 To build impactful and efficient digital solutions while continuously growing as a developer and contributing to tech communities.

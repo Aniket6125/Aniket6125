@@ -4,8 +4,6 @@
 ## 🎓 B.Tech Computer Science & Engineering (CSE)  | AI & Machine Learning
 ### 👀 **Passionate About**  
 Exploring Full Stack Development and AI/ML to create real-world impactful solutions.
-### 🌱 **Currently Learning**  
-Sharpening my knowledge in **Web Development**, with a focus on **JavaScript**, **Full-Stack Development**, and **problem-solving**.
 ### 🌐 **Social**  
 <p align="left">
 <a href="https://www.linkedin.com/in/aniket-dhumal-12a802274/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="linkedin" /></a>

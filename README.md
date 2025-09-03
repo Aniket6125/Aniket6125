@@ -15,10 +15,10 @@ Sharpening my knowledge in **Web Development**, with a focus on **JavaScript**, 
 
 ## 🚀 Tech Stack
 **Languages & Tools:**  
-- 💻 Java | Python  
+- 💻 Java | Python | JavaScript  
 - ⚙️ Node.js | React.js | HTML | CSS  
 - 🗄️ MySQL   
-- 🤖 TensorFlow | PyTorch |
+- 🤖 TensorFlow | PyTorch 
 - ☁️ Git | GitHub 
 
 ---

@@ -3,7 +3,7 @@
 
 ## 🎓 B.Tech Computer Science & Engineering (CSE)  | AI & Machine Learning
 ### 👀 **Passionate About**  
-Exploring real-world applications of **software development** and enhancing my technical skill set.
+Exploring real-world applications of Full Stack Development and Artificial Intelligence/Machine Learning to build innovative and impactful solutions.
 ### 🌱 **Currently Learning**  
 Sharpening my knowledge in **Web Development**, with a focus on **JavaScript**, **Full-Stack Development**, and **problem-solving**.
 ### 🌐 **Social**  

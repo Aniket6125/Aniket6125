@@ -1,7 +1,7 @@
 
 # Hi, I’m Aniket Dhumal
 
- 🎓** B.Tech Student Computer Science & Engineering (CSE)**  
+## 🎓 ** B.Tech Student Computer Science & Engineering (CSE)**  
 ### 👀 **Passionate About**  
 Exploring real-world applications of **software development** and enhancing my technical skill set.
 ### 🌱 **Currently Learning**  
